@@ -1,0 +1,2 @@
+# Movie-Recommendation
+It helps the user to show the list of their favourite movies based on their given movie.  It creates personalised lists of useful and interesting content specific to each user/individual based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are to watch those movies. This is achieved through predictive modelling and heuristics with the data available.
